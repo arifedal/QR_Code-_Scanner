@@ -32,14 +32,13 @@
         Upload from Gallery: Click this button to select a QR code image from your computer.
         Scan: Click this button to scan a QR code using your computer's camera.
 
-
-  # Screenshots
-    https://github.com/arifedal/QR_Code-_Scanner/assets/64319887/e5241726-5ea1-4d95-b815-f640416972ef
-
   # Dependencies
 
     - OpenCV: Used for capturing images from the camera.
     - PyQt5: Utilized for creating the graphical user interface.
     - pyzbar: Used for decoding QR codes.
 
-      
+  
+  # Screenshots
+         
+![panel](https://github.com/arifedal/QR_Code-_Scanner/assets/64319887/7e2bd8df-0a85-40e0-a105-66923486c4ea)
