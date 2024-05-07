@@ -34,7 +34,7 @@
 
 
   # Screenshots
-    ![panel](https://github.com/arifedal/QR_Code-_Scanner/assets/64319887/e5241726-5ea1-4d95-b815-f640416972ef)
+    https://github.com/arifedal/QR_Code-_Scanner/assets/64319887/e5241726-5ea1-4d95-b815-f640416972ef
 
   # Dependencies
 
